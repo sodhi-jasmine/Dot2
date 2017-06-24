@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fancy="http://schemas.android.com/apk/res-auto">
+
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/animation_1"
+        android:layout_width="250dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:text="@string/animation_1"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        fancy:fb_textColor="#FFF"
+        fancy:fb_defaultColor="@color/colorPrimary"
+        fancy:fb_radius="50dp"/>
+
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/animation_2"
+        android:layout_width="250dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="160dp"
+        android:text="@string/animation_2"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        fancy:fb_textColor="#FFF"
+        fancy:fb_defaultColor="@color/colorPrimary"
+        fancy:fb_radius="50dp"/>
+
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/animation_3"
+        android:layout_width="250dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="220dp"
+        android:text="@string/animation_3"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        fancy:fb_textColor="#FFF"
+        fancy:fb_defaultColor="@color/colorPrimary"
+        fancy:fb_radius="50dp"/>
+
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/animation_4"
+        android:layout_width="250dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="280dp"
+        android:text="@string/animation_4"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        fancy:fb_textColor="#FFF"
+        fancy:fb_defaultColor="@color/colorPrimary"
+        fancy:fb_radius="50dp"/>
+
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/animation_5"
+        android:layout_width="250dp"
+        android:layout_height="54dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="340dp"
+        android:text="@string/animation_5"
+        android:textAllCaps="false"
+        android:textSize="16sp"
+        fancy:fb_textColor="#FFF"
+        fancy:fb_defaultColor="@color/colorPrimary"
+        fancy:fb_radius="50dp"/>
+</RelativeLayout>

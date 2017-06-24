@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Table App</string>
+
+    <string name="button_text_1">Animations</string>
+    <string name="button_text_2">Play Game</string>
+
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="animation_1">Tropical Blue</string>
+    <string name="animation_2">Magical Fusion</string>
+    <string name="animation_3">Rolly Polly</string>
+    <string name="animation_4">Solid Fader</string>
+    <string name="animation_5">Smooth Criminal</string>
+</resources>
